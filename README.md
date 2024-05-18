@@ -6,10 +6,12 @@
 &nbsp;&nbsp; In this experimental study, we explored multiple approaches to develop models for image classification. We constructed deep neural network (DNN) models with varying numbers of hidden layers, ranging from DNN1 to DNN4, and convolutional neural network (CNN) models with different architectures, including a basic CNN model and another with dropout regularization. Additionally, we incorporated transfer learning by utilizing a pre-trained model, specifically InceptionV3 and DenseNet201. Through thorough experimentation and evaluation, we identified the best-performing model as the CNN model with one Dropout layer before output, achieving a high validation accuracy of 0.996. This result shows the effectiveness of using the model for image classification tasks, demonstrating the ability to capture complex patterns and features in the data.
 # Bibliography
 [1] World Health Organization. (2023, November 7). Tuberculosis (TB). World Health 
-Organization. https://www.who.int/news-room/fact-sheets/detail/tuberculosis <br><br>	
+Organization.<br>
+https://www.who.int/news-room/fact-sheets/detail/tuberculosis <br><br>	
 [2] Maheswari, B. U., Sam, D., Mittal, N., Sharma, A., Kaur, S., Askar, S. S., & Abouhawwash, 
 M. (2024). Explainable deep-neural-network supported scheme for tuberculosis detection 
-from chest radiographs. BMC medical imaging, 24(1), 32. https://doi.org/10.1186/s12880-024-01202-x<br><br>
+from chest radiographs. BMC medical imaging, 24(1), 32.<br>
+https://doi.org/10.1186/s12880-024-01202-x<br><br>
 [3] Oloko-Oba M and Viriri S (2022) A Systematic Review of Deep Learning Techniques for 
 Tuberculosis Detection From Chest Radiograph. Front. Med. 9:830515. doi: 10.3389/fmed.2022.830515<br><br>
 [4] Tawsifur Rahman, Amith Khandakar, Muhammad A. Kadir, Khandaker R. Islam, Khandaker 
